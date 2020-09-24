@@ -1,0 +1,43 @@
+ _
+(@)\                                                         _
+|-|`\                                                       |@|
+| |---------------------------------------------------------|-|
+|-|              Deckyon's AD&D Toolkit 1.50                | |
+| |                   deckyon@yahoo.com                     |-|
+|-|                                                         | |
+| | Planned Updates                                         |-|
+|-| ===============                                         | |
+| | * Further the constraints for more accurate character   |-|
+|-|   generation.                                           | |
+| | * Ability to save NPCs for future recal and use         |-|
+|-| * New method of displaying and working with Undead and  | |
+| |   Rogue stats                                           |-|
+|-| * Adding customized dice rolling to Dice Roller applet  | |
+| |   so odd number dice can be used.                       |-|
+|-|                                                         | |
+| | Version 1.50-Stable                                     |-|
+|-| ===================                                     | |
+| | * Generator is working for NPC Characters               |-|
+|-| * Generator is working for Player Characters            | |
+| | * Player Character Viewer is working.                   |-|
+|-| * Dice Roller is functioning, fixed random number issue | |
+| | * Generators loosely follow AD&D Rules for Char Gen.    |-|
+|-| * Added the ability to print character sheets.          | |
+| | * Added the Settings dialog box.                        |-|
+|-| * Changed report generator to use ODBC instead of MS    | |
+| |   Jet 4.0.  Some errors were reported when using Jet    |-|
+|-| * Saved an Access 97 version of the database for those  | |
+| |   who do not have Office 2000 and want to make changes  |-|
+|-|   to the database.                                      | |
+| |                                                         |-|
+|-|                                                         | |
+| | Version 1.00-Release                                    |-|
+|-| ====================                                    | |
+| | * Includes a dice rolling program.                      |-|
+|-| * Includes an NPC Generator.                            | |
+| | * Includes ability to add and update player characters  |-|
+|-|                                                         | |
+| |                                                         |-|
+|-|---------------------------------------------------------| |
+(@)                                                       \`|-|
+                                                           \(@)
